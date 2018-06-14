@@ -10,4 +10,4 @@ JPMorgan Chase
 Morgan Stanley
 Wells Fargo
 
-and analyzed stocks performance over time!
+and analyzed stocks performance over time from financial crisis upto 2016!
